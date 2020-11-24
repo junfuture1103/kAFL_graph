@@ -11,7 +11,6 @@ after you git clone this repository, you have to bring your .csv file
 If you want to compare multiple fuzzing results, use the -num option.
 ```
 python3 autoplot.py (-num N)
-
 ```
 ### 3. Just Do It
 ```
