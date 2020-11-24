@@ -20,6 +20,7 @@ If you use -num option
 ```
 gnuplot -c [.plot code] [csv file1] [csv file2] ... [csv fileN]
 ```
+   
 
 ### if you want to see Other indicators, follow this description
 you can edit autoplot.py yourself
