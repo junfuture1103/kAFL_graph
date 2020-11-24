@@ -2,7 +2,7 @@
 this is kAFL Performance measurement tool
 
 ## Usage
-after you git clone this repository,
+after you git clone this repository, you have to bring your .csv file
 ### 1. Install Gnuplot
 ```
    sudo apt install gnuplot
