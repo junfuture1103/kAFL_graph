@@ -57,4 +57,6 @@ you can check other indicator's number here
                 12 self.data["total_execs"],        # current total execs
                 13 self.data["bytes_in_bitmap"],    # unique edges % p(col)
                 
+                
+                
 ![Untitled](https://user-images.githubusercontent.com/62176354/100070782-ab9e4c80-2e7d-11eb-8af1-bfa57428d692.png)
