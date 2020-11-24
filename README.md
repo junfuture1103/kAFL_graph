@@ -2,6 +2,7 @@
 this is kAFL Performance measurement tool
 
 ## Usage
+after you git clone this repository,
 ### 1. Install Gnuplot
 ```
    sudo apt install gnuplot
@@ -18,5 +19,5 @@ gnuplot -c [.plot code] [csv file]
 ```
 If you use -num option
 ```
-gnuplot -c [.plot code] [csv file1] [csv file2]
+gnuplot -c [.plot code] [csv file1] [csv file2] ... [csv fileN]
 ```
