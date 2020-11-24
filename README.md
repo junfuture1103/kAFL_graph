@@ -32,7 +32,9 @@ for i in range (1, int(args.num)+1):
         indata += 'indata'+str(i)+' = ARG'+str(i)+'\n'
         #PLOT1 - Total execs
         plot1_data += 'indata' + str(i) + ' using '
-        plot1_data += '**1:12**' #data
+        
+        plot1_data += ** '1:12' ** #data
+        
         plot1_data += ' title '
         plot1_data += '\'Total execs ' + str(i) + '\' ' #Title
         plot1_data += 'with line linecolor rgb '
