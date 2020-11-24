@@ -57,4 +57,4 @@ you can check other indicator's number here
                 12 self.data["total_execs"],        # current total execs
                 13 self.data["bytes_in_bitmap"],    # unique edges % p(col)
                 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/794bcbd7-60aa-4947-9abd-538f377178c4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/794bcbd7-60aa-4947-9abd-538f377178c4/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/62176354/100070782-ab9e4c80-2e7d-11eb-8af1-bfa57428d692.png)
